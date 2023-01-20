@@ -1,0 +1,11 @@
+name: midas-helium
+version: 1.0.0
+api-version: 1.19
+author: vanthanyx
+description: part of the MIDAS software line
+main: me.vanthanyx.midas.Helium
+commands:
+    midas:
+        description: Core MIDAS command, multifunctional.
+        usage: /midas <flags>
+        permission: midas-helium.midas
